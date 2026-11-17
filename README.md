@@ -51,9 +51,7 @@ server {
 }
 ```
 
-## Qué no está en estos repositorios
 
-Por seguridad y protección de datos personales **no se publican**: contraseñas y claves, la cuenta de servicio de Google, los datos de las bases (solo su estructura), el inventario real de la red ni configuraciones con direcciones internas. Cada repo trae archivos `*.example` para replicar la instalación.
 
 ---
-Desarrollado por **Henry Braulio Pachas Dávalos** · Área de Informática, UGEL Chincha · 2026
+Desarrollado por **Ing. Henry Braulio Pachas Dávalos** · Área de Informática, UGEL Chincha · 2026
